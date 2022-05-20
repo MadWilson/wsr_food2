@@ -1,0 +1,2 @@
+rootProject.name = "DemoWSR_Filippov"
+include ':app'

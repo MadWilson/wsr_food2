@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DemoWSR_Filippov</string>
+    <string name="wsr_food">WSR FOOD</string>
+    <string name="fastest_delivery_24_7">Fastest Delivery 24/7</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="skip_authorization">Skip Authorization</string>
+    <string name="welcome_to_wsr_food">Welcome To WSR Food</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="deliver_mail_ru">deliver@mail.ru</string>
+    <string name="password1">******</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="full_name">Full Name</string>
+    <string name="name1">Olivie Berlusco</string>
+    <string name="Phone">Phone number</string>
+    <string name="number">+7 (963) 444-12-23</string>
+    <string name="register_now">Register Now</string>
+    <string name="cancel">Cancel</string>
+</resources>
